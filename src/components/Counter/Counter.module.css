@@ -1,0 +1,43 @@
+.Numero {
+    color: blueviolet;
+    padding-left: 910px;
+    font-size: 50px;
+}
+
+.Botao {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.Add{
+    background-color: rgb(155, 192, 98);
+    margin-right: 20px;
+    width: 80px;
+    padding: 10px;
+    border: 2px solid black; /* Borda vermelha */
+    border-radius: 8px; /* Borda arredondada */
+    transition: border 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+.Add:hover{
+    background-color: greenyellow;
+}
+
+.Menos {
+    background-color: rgb(173, 38, 38);
+    margin-right: 20px;
+    width: 80px;
+    padding: 10px;
+    border: 2px solid black; /* Borda vermelha */
+    border-radius: 8px; /* Borda arredondada */
+    transition: border 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+.Menos:hover{
+    background-color: red;
+}
+
+

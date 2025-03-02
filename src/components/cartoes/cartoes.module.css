@@ -1,20 +1,20 @@
 .cartao{
     background-color: rgb(208, 205, 205);
-    width: 400px;
+    width: 250px;
     margin-left: 500px;
-    border-radius: 4px;
+    border-radius: 8px;
 }
 
 .titulo {
     color: black;
     display: flex;
     justify-content: center;
-    padding: 6px 6px 6px 6px;
+    padding: 25px 6px 6px 6px;
 }
 
 .descricao {
     color: black;
     display: flex;
     justify-content: center;
-    padding-top: 20px;
+    padding: 20px;
 }
